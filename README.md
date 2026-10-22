@@ -1,4 +1,4 @@
-# ⚡ Battery Info (Linux / Qt6)
+#  Battery Info (Linux / Qt6)
 
 A lightweight, minimal, and modern battery monitor for Linux built with **Qt 6 (C++ & QML)**.
 
@@ -10,7 +10,7 @@ Unlike traditional battery monitors that poll `/sys/class/power_supply` or UPowe
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Hero Battery Gauge**: Smooth circular battery gauge, animated charging glow, instantaneous wattage power rate (`+W` or `-W`), and time-remaining estimation.
 - **Capacity & Health**: Current capacity, factory design capacity, and battery health percentage (`CapacityHealth %`).
@@ -22,7 +22,7 @@ Unlike traditional battery monitors that poll `/sys/class/power_supply` or UPowe
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 - Linux with `UPower` service (`systemd` / standard freedesktop stack)
 - Qt 6 (Core, Gui, Qml, Quick, QuickControls2, DBus)
@@ -32,7 +32,7 @@ Unlike traditional battery monitors that poll `/sys/class/power_supply` or UPowe
 
 ---
 
-## 🚀 Building & Running
+##  Building & Running
 
 ### 1. Build
 ```bash
