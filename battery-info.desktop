@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Battery Info
+Comment=Minimal event-driven Linux battery information tool
+Exec=battery-info
+Icon=battery
+Terminal=false
+Type=Application
+Categories=System;Monitor;HardwareSettings;
+Keywords=battery;power;charge;upower;acpi;
+StartupWMClass=battery-info
