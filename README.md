@@ -1,3 +1,7 @@
+## Preview
+
+<img src="https://github.com/frozencan/battery-info/blob/main/preview.png">
+
 #  Battery Info (Linux / Qt6)
 
 A lightweight, minimal, and modern battery monitor for Linux built with **Qt 6 (C++ & QML)**.
